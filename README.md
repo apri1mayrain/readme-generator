@@ -47,7 +47,7 @@ The README file will contain:
 
 Click photo below to view demo video:
 
-[![Link to demo video](./assets/images/video.png)](https://drive.google.com/file/d/13W_cTcu-DRoVBTS58ANSXi1G8CdRPEt0/view?usp=sharing)
+[![Link to demo video](./assets/images/video.png)](https://drive.google.com/file/d/1xJ6sK5PyloqcsTCXNLE6EGet25uRHwHv/view?usp=sharing)
 
 ## Screenshots
 
@@ -65,6 +65,6 @@ Generated README:
 
 ## License
 
-MIT License - Copyright © 2024 april1mayrain
+MIT License - Copyright © 2024 apri1mayrain
 
 [(Go back to top)](#professional-readme-generator)
